@@ -21,7 +21,7 @@ person_info = {
     }
 
 # This was a good way to explain and list some variables from strings, intergers, booleans, lists, and dictionaries.
-# Now we will printg the values stored in the variables. 
+# Now we will printing the values stored in the variables. 
 
 print('First name;', first_name)
 print('First name length:', len(first_name))
