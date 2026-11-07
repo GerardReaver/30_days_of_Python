@@ -1,4 +1,4 @@
-10# 30_days_of_Python 
+# 30_days_of_Python 
 building to learn
 1
 2345678
