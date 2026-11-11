@@ -1,2 +1,2 @@
-1# 30_days_of_Python 
+# 30_days_of_Python 
 building to learn
